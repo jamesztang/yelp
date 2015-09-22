@@ -1,5 +1,7 @@
 Time spent: 6 hours
 
+![Alt text](https://github.com/jamesztang/yelp/blob/master/anim_yelp.gif?raw=true "Screen Cast")
+
 Completed:
 
 Search results page
